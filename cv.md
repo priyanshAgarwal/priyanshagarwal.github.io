@@ -19,7 +19,6 @@ better decisions. Currently learning Tenserflow, Spark and Deep Learning. Pursui
 - Text Mining 
 - Quick prototyping skills
 - Experience in running production systems
-- Research experience in academic settings
 - Kaggle contributor
 - Open source contributor
 - Python (numpy, pandas, sklearn)
