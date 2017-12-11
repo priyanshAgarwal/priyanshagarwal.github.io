@@ -15,7 +15,7 @@ My name is Priyansh and I'm a Data Scientist living in United States of America.
 ### Concact information
 
 - [My CV](/cv)
-- pagarwa2 [@] mtu.edu
+- pagarwa2@mtu.edu
 
 Profiles:
 
