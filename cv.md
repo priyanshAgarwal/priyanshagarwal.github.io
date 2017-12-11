@@ -81,13 +81,6 @@ Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 <strong>Small Software Factory</strong> (freelance)<br/>
 Position: Data Scientist<br/>
 
-As a freelancer I participated in a number of projects for different customers. That included:
-
-- Voice recognition for controlling a smartphone
-- Structured information extraction (menus, addresses, etc)
-- AutoML
-- Segmentation and accident prediction for taxi drivers
-- And others
 
 Technologies:<br/>
 Java, LibSVM, LIBLINEAR, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R<br/>
@@ -105,42 +98,9 @@ Summary of prior experience:
 
 &nbsp;
 
-### PUBLICATIONS & PROJECTS
-
-**Books:**
-
-- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev
-
-
-**Papers:**
-
-- Moritz Schubotz, Alexey Grigorev, and others. Semantification of Identifiers in Mathematics for Better Math Information Retrieval. SIGIR '16 ([DOI](http://dx.doi.org/10.1145/2911451.2911503))
-- Alexey Grigorev. Large-Scale Vandalism Detection with Linear Classifiers. WSDM Cup 2017 Notebook Papers. ([pdf](http://www.uni-weimar.de/medien/webis/events/wsdm-cup-17/wsdmcup17-papers-final/wsdmcup17-vandalism-detection/grigorev17-notebook.pdf))
-
-
-**Technical reviewing:**
-
-- [Test-Driven Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/test-driven-machine-learning) by Justin Bozonier
-- [Mastering Data Analysis with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r) by Gergely Daróczi
-- [Python Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-cookbook) by Ivan Idris 
-- and 3+ more
-
-
 **Competitions:**
 
-- [The Allen AI Science Challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge) (top 100)
-- [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance) (top 100)
-- [Can we predict voting outcomes?](https://inclass.kaggle.com/c/can-we-predict-voting-outcomes) (top 100)
-- [ChaLearn AutoML Challenge](https://competitions.codalab.org/competitions/2321) CPU & GPU tracks (top 10)
-- [Avito Duplicate Ads Detection](https://www.kaggle.com/c/avito-duplicate-ads-detection) (top 10)
-- [CIKM Cup 2016 Track 1: Cross-Device Linking](https://competitions.codalab.org/competitions/11171) (top 10)
-- [WSDM Cup 2017: Vandalism Detection](http://www.wsdm-cup-2017.org/vandalism-detection.html) (2nd place)
-- [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction) (top 15)
-- [Unpossibly Instagram Challenge](http://live.unpossib.ly/instagram) (1st place)
-- [Growing Instability: Classifying Crisis Reports](https://www.datasciencechallenge.org/challenges/2/growing-instability) (top 10)
-- [Clickbait Challenge](http://clickbait-challenge.org) (3rd place)
-- [NIPS'17 Criteo Ad Placement Challenge](https://www.crowdai.org/challenges/nips-17-workshop-criteo-ad-placement-challenge) (1st place)
-
+- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (top 18%)
 
 **Projects:**
 
