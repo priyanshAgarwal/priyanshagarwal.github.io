@@ -19,5 +19,5 @@ Profiles:
 
 - linkedin: [https://www.linkedin.com/in/priyansh-agarwal-72526649/](https://www.linkedin.com/in/priyansh-agarwal-72526649/)
 - github: [https://github.com/priyanshAgarwal](https://github.com/priyanshAgarwal)
-- kaggle: [https://www.kaggle.com/priyansh2]
-- Stackoverflow: [https://stackoverflow.com/users/3752261/priyansh]
+- kaggle: [https://www.kaggle.com/priyansh2](https://www.kaggle.com/priyansh2)
+- Stackoverflow: [https://stackoverflow.com/users/3752261/priyansh](https://stackoverflow.com/users/3752261/priyansh)
