@@ -116,7 +116,7 @@ Summary of prior experience:
 
 ### EDUCATION
 
-**2017 &ndash; 2019**, [Michigan Technological University]<br/>
+**2017 &ndash; 2019**, Michigan Technological University<br/>
 MS in Data Science
 Courses
  - Artificial Intelligence - CS4821
