@@ -39,7 +39,7 @@ better decisions. Currently learning Tenserflow, Spark and Deep Learning. Pursui
 
 
 <strong>10.2016 &mdash; 06.2017</strong><br/>
-<strong>Web Craft IT</strong><br/>, Indore, India<br/>
+<strong>Web Craft IT</strong> Indore, India<br/>
 Position: Data Analyst<br/>
 
 - Conducted banking and financial case study to identify existing customers who would have a 
@@ -58,7 +58,7 @@ Python, R, Statistics, Stanford NLP, pandas, sklearn, xgboost<br/>
 &nbsp;
 
 <strong>02.2015 &mdash; 09.2016</strong><br/>
-<strong>CG Technosoft</strong><br/>, Jodhpur, India<br/>
+<strong>CG Technosoft</strong> Jodhpur, India<br/>
 Position: iOS Developer II<br/>
 
 
