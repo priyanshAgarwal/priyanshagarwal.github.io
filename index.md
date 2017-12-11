@@ -9,7 +9,7 @@ Welcome to my personal page
 
 ### About me
 
-My name is Priyansh and I'm a Data Scientist living in United States of America. I'm originally from [Rajasthan, Jodhpur]. You can see my CV [here](/cv).
+Masters in Data Science with insatiable appetite for learning new technologies.Passionate about utilizing data and data science techniques to make better decisions. Currently learning Tenserflow, Spark and Deep Learning. Pursuing data science internships for May 2018. You can see my CV [here](/cv).
 
 
 ### Concact information
