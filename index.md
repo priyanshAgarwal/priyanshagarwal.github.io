@@ -12,7 +12,6 @@ Masters in Data Science with insatiable appetite for learning new technologies.P
 
 ### Concact information
 
-- [My CV](/cv)
 - pagarwa2@mtu.edu
 
 Profiles:
