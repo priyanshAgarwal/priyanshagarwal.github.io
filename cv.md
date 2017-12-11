@@ -100,7 +100,7 @@ Summary of prior experience:
 
 **Competitions:**
 
-- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (top 18%)
+- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (top 18%) [Binary Classification, Knn]
 
 **Projects:**
 
