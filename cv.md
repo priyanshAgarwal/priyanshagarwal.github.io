@@ -1,15 +1,16 @@
 ---
 
 layout: default
-title: Alexey Grigorev - CV
+title: Priyansh Agarwal - CV
 
 ---
 
 
 ## CV
 
-A data scientist and machine learning engineer with hands on experience and strong technical skills. I bring data science ideas from early prototypes to production, including problem identification, data collection, model creation and deployment. 
-
+Masters in Data Science with insatiable appetite for learning new technologies. Eight months experience as a data analyst and
+two years of experience as mobile application developer. Passionate about utilizing data and data science techniques to make
+better decisions. Currently learning Tenserflow, Spark and Deep Learning. Pursuing data science internships for May 2018.
 
 **Summary:**
 
@@ -162,27 +163,24 @@ Summary of prior experience:
 
 **2017 &ndash; 2019**, [Michigan Technological University]<br/>
 MS in Data Science
+Courses
  - Artificial Intelligence - CS4821
+ - Data Mining - CS4821
+ - Info Sys Management and Data Analyses - BA5200
+ - Introduction To Data Science - UN5550
 
-**2006 &ndash; 2010**, Far Eastern State Academy<br/>
-Department: Faculty of Mathematics, Information Technologies and Engineering<br/>
-Specialization: Information Systems and Technologies<br/>
-Degree work: "Commodity Circulation Process in Sterh Ltd."<br/>
-
-**2006 &ndash; 2011**, Far Eastern State Academy<br/>
-Department: Foreign Languages<br/>
-Specialization: English<br/>
+**2010 &ndash; 2014**, Rajasthan Technical University<br/>
+Bachelor of Technology in Computer Science 
 
 
 **Independent coursework highlights:**
 
-- [Algorithms: Design and Analysis, Part 1, coursera](https://www.coursera.org/course/algo) (2013)
-- [Machine Learning, coursera](https://www.coursera.org/course/ml) (2013)
-- [Learning from Data, edX](https://www.edx.org/course/learning-data-caltechx-cs1156x) (2014)
+- [Python Data Structures, coursera](https://www.coursera.org/account/accomplishments/verify/RPUJP8GMSH5H) (Oct2017)
+- [Getting Started with Python, coursera](https://www.coursera.org/account/accomplishments/verify/GVMWHP6RGJ4D) (Jul2017)
+- [HTML, CSS and JavaScript, edX](https://www.coursera.org/account/accomplishments/certificate/ASAZ5P2W5RDX) (2014)
 - [Statistical Learning, Stanford Lagunita](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) (2015)
-- [The Analytics Edge, edX](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (2015)
-- [Econometrics: Methods and Applications, coursera](https://www.coursera.org/learn/erasmus-econometrics) (2015)
-- and 10+ others
+- [Getting and Cleaning Data, coursera](https://www.coursera.org/account/accomplishments/certificate/S4DV23UBFF) (2015)
+- [R Programming, coursera](https://www.coursera.org/account/accomplishments/certificate/HEDZ2UEV3U) (2015)
 
 
 <div align="right"><i>Best printed with Google Chrome</i></div>
