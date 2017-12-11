@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Priyansh Agarwal - Personal Page
+title: Priyansh Agarwal 
 
 ---
 
