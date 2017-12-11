@@ -14,27 +14,23 @@ better decisions. Currently learning Tenserflow, Spark and Deep Learning. Pursui
 
 **Summary:**
 
-- Machine Learning and Data Science, 4+ years
-- Software Engineering, 7+ years
-- Text Mining expert, 4+ years
+- Machine Learning and Data Science
+- Software Engineering
+- Text Mining 
 - Quick prototyping skills
 - Experience in running production systems
 - Research experience in academic settings
-- Mentoring and leadership experience
-- Book author, technical reviewer and frequent speaker
-- Kaggle master and competition winner
+- Kaggle contributor
 - Open source contributor
 - Python (numpy, pandas, sklearn)
-- Java (spring, maven) and Scala
 
 **Contact information and links:**
 
-- +49 177 490 5706, alexey.s.grigoriev [@] gmail.com
-- linkedin: [http://www.linkedin.com/in/agrigorev](http://www.linkedin.com/in/agrigorev)
-- github: [https://github.com/alexeygrigorev](https://github.com/alexeygrigorev)
-- stackoverflow careers: [https://careers.stackoverflow.com/alexeygrigorev](https://careers.stackoverflow.com/alexeygrigorev)
-- google scholar: [https://scholar.google.com/citations?user=xT1V5UwAAAAJ](https://scholar.google.com/citations?user=xT1V5UwAAAAJ)
-- kaggle: [https://www.kaggle.com/agrigorev](https://www.kaggle.com/agrigorev)
+- +906-231-5419, pagarwa2@mtu.edu
+- linkedin: [https://www.linkedin.com/in/priyansh-agarwal-72526649/](https://www.linkedin.com/in/priyansh-agarwal-72526649/)
+- github: [https://github.com/priyanshagarwal](https://github.com/priyanshagarwal)
+- stackoverflow careers: [https://stackoverflow.com/users/3752261/priyansh](https://stackoverflow.com/users/3752261/priyansh)
+- kaggle: [https://www.kaggle.com/priyansh2](https://www.kaggle.com/priyansh2)
 
 
 &nbsp;
