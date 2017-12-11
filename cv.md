@@ -36,79 +36,43 @@ better decisions. Currently learning Tenserflow, Spark and Deep Learning. Pursui
 
 ### PROFESSIONAL EXPERIENCE
 
-<strong>08.2017 &mdash; ...</strong><br/>
-<strong>[Simplaex](http://www.simplaex.com)</strong>, Berlin, Germany<br/>
-Position: Data Scientist<br/>
-
-&nbsp;
 
 
-<strong>10.2015 &mdash; 07.2017</strong><br/>
-<strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
-Position: Data Scientist<br/>
+<strong>10.2016 &mdash; 06.2017</strong><br/>
+<strong>Web Craft IT</strong><br/>, Indore, India<br/>
+Position: Data Analyst<br/>
 
-Searchmetrics is a SEO company which helps customers create better content and track the performance of their websites. At Searchmetrics I was involved in a number of projects, including:
-
-- Content Opt: Topic-aware word recommender to assist copywriters
-- Keyword grouping for correcting search volume from Keyword Planner
-- Web site link structure optimization
-- Compound term extraction
+- Conducted banking and financial case study to identify existing customers who would have a 
+  higher propensity to buy other products
+- Identified, analyzed, and interpreted trends and patterns in complex data sets
+- Used analytics and statistical methods to identify and predict behaviours in data
+- Acquired data from primary and secondary data sources and maintained data pipelines
 - Template-based title generation
-- Scoring titles for "goodness", clickbaitness and controversy
-- Significant change detection in ranking, market share and traffic
+- Collaborated on team of four to clean and analyze data that reduced the training time to 15% and improved the accuracy of prediction
+- Used statistical concepts like: regression, classification and data transformation, to analyse data 
+  and provide insights
+
+Technologies:<br/>
+Python, R, Statistics, Stanford NLP, pandas, sklearn, xgboost<br/>
+
+&nbsp;
+
+<strong>02.2015 &mdash; 09.2016</strong><br/>
+<strong>CG Technosoft</strong><br/>, Jodhpur, India<br/>
+Position: iOS Developer II<br/>
 
 
 Technologies:<br/>
-Python, pandas, sklearn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
-
-
-&nbsp;
-
-<strong>04.2015 &mdash; 09.2015</strong><br/>
-**[DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/)**, Berlin, Germany<br/>
-Position: Research Assistant<br/>
-
-DIMA is a research group at TU Berlin that focuses on Big Data and Databases. At DIMA I worked on
-implementing Apache Mahout DSL for distributed Linear Algebra on top of Apache Flink. <br/>
-
-Technologies:<br/>
-Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
-
+iOS, iPhone App Developemnt; Xoced<br/>
 
 &nbsp;
 
-<strong>08.2013 &mdash; 12.2014</strong><br/>
-<strong>Small Software Factory</strong> (freelance)<br/>
-Position: Data Scientist<br/>
-
-
-Technologies:<br/>
-Java, LibSVM, LIBLINEAR, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R<br/>
-
-&nbsp;
-
-Summary of prior experience:
-
-* <strong>2012 &ndash; 2013</strong>, <a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a> &ndash; Java &ndash; Poland
-* <strong>2011 &ndash; 2012</strong>, <a href="http://intech-global.com/">Intech</a> for Tele2 &ndash; Java &ndash; Russia
-* <strong>2011 &ndash; 2012</strong>, Open source project <a href="http://jtalks.org">JTalks.org</a> &ndash; Team Lead (Java)
-* <strong>2010 &ndash; 2011</strong>, <a href="https://www.amazonrobotics.com/">Amazon Robotics</a> via <a href="https://www.auriga.com/">Auriga</a> &ndash; Java &ndash; Russia
-* <strong>2010 &ndash; 2010</strong>, Boston University, Cognitive Neuroscience Lab &ndash; Research Assistant &ndash; USA
-* <strong>2007 &ndash; 2008</strong>, FESA, Mathematical Simulations Lab &ndash; Research Assistant &ndash; Russia
-
-&nbsp;
 
 **Competitions:**
 
 - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (top 18%) [Binary Classification, K-Nearest Neighbor]
 
 **Projects:**
-
-- Predicting mortality from climate data for Khabarovsk, Russia
-- Spam detection for [javatalks.ru](http://javatalks.ru/)
-- Structured Information Retrieval for a FIFA World Cup Datawarehouse
-- Mathematical Language Processing: Identifier definition extraction and clustering ([github](https://github.com/alexeygrigorev/namespacediscovery-pipeline))
-- `rseq`: Sequence pattern matching library for Java ([github](https://github.com/alexeygrigorev/rseq))
 
 
 
