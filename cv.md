@@ -26,7 +26,7 @@ better decisions. Currently learning Tenserflow, Spark and Deep Learning. Pursui
 **Contact information and links:**
 
 - +906-231-5419, pagarwa2@mtu.edu
-- linkedin: [https://www.linkedin.com/in/priyansh-agarwal-72526649/](https://www.linkedin.com/in/priyansh-agarwal-72526649/)
+- linkedin: [https://www.linkedin.com/in/priyansh91//](https://www.linkedin.com/in/priyansh91//)
 - github: [https://github.com/priyanshagarwal](https://github.com/priyanshagarwal)
 - stackoverflow careers: [https://stackoverflow.com/users/3752261/priyansh](https://stackoverflow.com/users/3752261/priyansh)
 - kaggle: [https://www.kaggle.com/priyansh2](https://www.kaggle.com/priyansh2)
