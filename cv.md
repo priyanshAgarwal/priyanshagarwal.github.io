@@ -73,22 +73,23 @@ iOS, iPhone App Developemnt; Xoced<br/>
 - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (top 18%) [Binary Classification, K-Nearest Neighbor]
 
 **Projects:**
-<strong>Titanic Machine Learning from Disaster through Kaggle</strong>: <br>Challenge to predict the survival of passengers on the Titanic
+<strong>Titanic Machine Learning from Disaster through Kaggle</strong>: August 2017 <br>
+  - Challenge to predict the survival of passengers on the Titanic
   -	Used Python, R, Binary Classification and Random forest to train classifier received accuracy of 80.98%
-  -	Currently ranked in the top 18% of about 9000+ competitors                                                      August 2017
+  -	Currently ranked in the top 18% of about 9000+ competitors                                                      
   
-<strong>Conveys Game of Life: Demonstrate a self-replicating life simulator with a 20x20 grid</strong><br>          September2017     
+<strong>Conveys Game of Life: Demonstrate a self-replicating life simulator with a 20x20 grid</strong> September2017<br>               
   -	Plotted 20 Generations using Matplotlib and Seaborn.
   -	Used Numpy to compute neighbour for each grid.
   
-<strong>Implemented Map Reduce – Write a Mapper and Reducer to search instances from files</strong><br>             September 2017 
+<strong>Implemented Map Reduce – Write a Mapper and Reducer to search instances from files</strong> September 2017 <br>              
   -	Wrote mapper and reducer in python to return top ‘n’ names from a list of files.      
   
-<strong>Web Scrapping – Use python to scrape posted to techtrunch.com</strong><br>                                  October 2017
+<strong>Web Scrapping – Use python to scrape posted to techtrunch.com</strong> October 2017 <br>                                  
   -	Used scrapy to scrape and parse data from website
   -	Used pandas to manipulate and parse data.                 
 
- <strong>Detect Spam Comments on YouTube using AWS Machine Learning</strong><br>                                    November 2017    
+ <strong>Detect Spam Comments on YouTube using AWS Machine Learning</strong> November 2017 <br>                                        
   - Uploaded data from Amazon S3-Bucket 
   - Source - https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection
   - Achieved ML model performance - Precision-0.871
