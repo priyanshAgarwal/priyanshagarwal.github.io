@@ -74,23 +74,23 @@ iOS, iPhone App Developemnt; Xoced<br/>
 
 **Projects:**
 •	Titanic Machine Learning from Disaster through Kaggle: Challenge to predict the survival of passengers on the Titanic
-  o	Used Python, R, Binary Classification and Random forest to train classifier received accuracy of 80.98%
-  o	Currently ranked in the top 18% of about 9000+ competitors                                                              August 2017
+  -	Used Python, R, Binary Classification and Random forest to train classifier received accuracy of 80.98%
+  -	Currently ranked in the top 18% of about 9000+ competitors                                                              August 2017
   
 •	Conveys Game of Life: Demonstrate a self-replicating life simulator with a 20x20 grid                                   September2017 
-  o	Plotted 20 Generations using Matplotlib and Seaborn.
-  o	Used Numpy to compute neighbour for each grid.
+  -	Plotted 20 Generations using Matplotlib and Seaborn.
+  -	Used Numpy to compute neighbour for each grid.
   
 •	Implemented Map Reduce – Write a Mapper and Reducer to search instances from files                                      September 2017 
-  o	Wrote mapper and reducer in python to return top ‘n’ names from a list of files.      
+  -	Wrote mapper and reducer in python to return top ‘n’ names from a list of files.      
   
 •	Web Scrapping – Use python to scrape posted to techtrunch.com                                                             October 2017
-  o	Used scrapy to scrape and parse data from website
-  o	Used pandas to manipulate and parse data.                 
+  -	Used scrapy to scrape and parse data from website
+  -	Used pandas to manipulate and parse data.                 
 
-• Detect Spam Comments on YouTube using AWS Machine Learning                                                               November 2017   o Uploaded data from Amazon S3-Bucket 
-  o Source - https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection
-  o Achieved ML model performance - Precision-0.871
+• Detect Spam Comments on YouTube using AWS Machine Learning                                                              November 2017   - Uploaded data from Amazon S3-Bucket 
+  - Source - https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection
+  - Achieved ML model performance - Precision-0.871
 
 
 &nbsp;
