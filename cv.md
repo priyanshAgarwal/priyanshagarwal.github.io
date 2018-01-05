@@ -89,7 +89,7 @@ iOS, iPhone App Developemnt; Xoced<br/>
   -	Used scrapy to scrape and parse data from website
   -	Used pandas to manipulate and parse data.                 
 
- <strong>Detect Spam Comments on YouTube using AWS Machine Learning;</strong>                                        November 2017 <br>
+ <strong>Detect Spam Comments on YouTube using AWS Machine Learning:</strong>                                        November 2017 <br>
   - Uploaded data from Amazon S3-Bucket 
   - Source - https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection
   - Achieved ML model performance - Precision-0.871
